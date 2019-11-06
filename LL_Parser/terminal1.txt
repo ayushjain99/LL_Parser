@@ -1,0 +1,6 @@
+int
+char
+float
+id
+,
+;
