@@ -1,6 +1,6 @@
-LL(1) Parser
-Compiler Design Project, Semester 5
-
+<h1><u>LL(1) Parser</u><br>
+Compiler Design Project, Semester 5</h1><br>
+<pre>
 Implemented in -> Python 3
 Extra python packages required :
     (a) PrettyTable
@@ -49,3 +49,4 @@ Outputs of the program :
 --> Submitted to - Dr. Dinesh Gopalani, Dept. of CSE, MNIT Jaipur
 --> Submitted by - AYUSH JAIN         ( 2017UCP1168 )
                    PRANSHU KHANDELWAL ( 2017UCP1200 )
+</pre>
