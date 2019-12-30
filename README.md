@@ -1,5 +1,8 @@
-<pre>LL(1) Parser
-Compiler Design Project, Semester 5
+<h1>LL(1) Parser</h1>
+<h1>Compiler Design Project, Semester 5</h1>
+
+
+<pre>
 Implemented in -> Python 3
 Extra python packages required :
     (a) PrettyTable
