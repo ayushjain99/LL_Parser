@@ -6,7 +6,7 @@
 Implemented in -> Python 3
 Extra python packages required :
     (a) PrettyTable
-        Can be installed using - pip install PrettyTable
+        Can be installed using - pip3 install PrettyTable
 
 Objective -> To parse a given tokenised string according to given LL(1) grammar
              and check whether the string is valid or not.
